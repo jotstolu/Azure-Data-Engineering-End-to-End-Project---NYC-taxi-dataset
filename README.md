@@ -13,7 +13,7 @@ This repository showcases a complete data engineering workflow on Azure for the 
 ### Phase 1: Bronze (Raw Ingestion)
 
 - **Source**  
-  - NYC TLC Green Taxi trip records (Parquet) for Jan–Dec 2024  
+  - [NYC TLC Green Taxi trip records (Parquet) for Jan–Dec 2024](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
   - Data extracted via Azure Data Factory from HTTP API into ADLS Gen2
 
 - **Orchestration**  
